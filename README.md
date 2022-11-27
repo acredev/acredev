@@ -16,8 +16,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white"/></a>
 
-  ![acredev's GitHub stats](https://github-readme-stats.vercel.app/api?username=acredev&show_icons=true&theme=apprentice)
-  [![acredev's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=acredev&show_icons=true&theme=darcula&hide_border=true&title_color=white&icon_color=004386&layout=compact)](https://github.com/acredev)
+  ![acredev's GitHub stats](https://github-readme-stats.vercel.app/api?username=acredev&show_icons=true&theme=apprentice)  [![acredev's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=acredev&show_icons=true&theme=darcula&hide_border=true&title_color=white&icon_color=004386&layout=compact)](https://github.com/acredev)
 
   <br>
   <br>
