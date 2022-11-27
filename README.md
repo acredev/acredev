@@ -6,6 +6,14 @@
   <br>
   <br>
   <br>
+  <h1>✉ Social</h1>
+  <a href="mailto:m_file@naver.com"><img src="https://img.shields.io/badge/minhyuk6302@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/dailyminhyuk"><img src="https://img.shields.io/badge/@daliyminhyuk-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://acredev.tistory.com/"><img src="https://img.shields.io/badge/acredev Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+  
+  <br>
+  <br>
+  <br>
   <h1>🛠 Tech Stack</h1>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=CSharp&logoColor=white"/></a>
@@ -17,17 +25,4 @@
   <img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white"/></a>
 
   ![acredev's GitHub stats](https://github-readme-stats.vercel.app/api?username=acredev&show_icons=true&theme=apprentice)  [![acredev's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=acredev&show_icons=true&theme=darcula&hide_border=true&title_color=white&icon_color=004386&layout=compact)](https://github.com/acredev)
-
-  <br>
-  <br>
-  <br>
-  <h1>✉ Contact</h1>
-  <img src="https://img.shields.io/badge/minhyuk6302@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/@daliyminhyuk-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  
-  <br>
-  <br>
-  <br>
-  <h1>📚 Dev Blog</h1>
-  <a href="https://acredev.tistory.com/"><img src="https://img.shields.io/badge/acredev Log.-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 </div>
